@@ -69,4 +69,5 @@ cargo test
 
 [@whispem](https://github.com/whispem)
 
-## MITLicense
+## MIT License
+
