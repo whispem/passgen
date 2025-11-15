@@ -71,3 +71,6 @@ cargo test
 
 ## MIT License
 
+---
+
+If you spot anything that could be written in a more idiomatic or elegant Rust style, I’m always curious to understand why.
