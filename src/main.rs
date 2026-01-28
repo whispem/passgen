@@ -2,7 +2,7 @@ use rand::Rng;
 
 fn main() {
     let password = generate_password(12, false);
-    println!("🔐 Generated password: {}", password);
+    println!("Generated password: {}", password);
 }
 
 fn generate_password(length: usize, include_symbols: bool) -> String {
